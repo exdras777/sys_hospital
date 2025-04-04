@@ -24,6 +24,11 @@ INSTALLED_APPS = [
     'rest_framework',  # Django Rest Framework
     'enderecos',       # Aplicação de endereços
     'pacientes',       # Aplicação de pacientes
+    'especializacoes',
+    'doencas',
+    'enfermeiros',
+    'medicos',
+    'sttsconsulta',
 ]
 
 MIDDLEWARE = [
